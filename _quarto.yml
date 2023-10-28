@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 book:
-  title: "[STUDENT/GROUP NAME] Progress Journal"
-  repo-url: https://github.com/pjournal/gh-pages-quarto-template
+  title: "Zelha Pekkan Progress Journal"
+  repo-url: https://github.com/kpekkan/MEF_assignments
   chapters:
     - index.qmd
     - assignment1.qmd
